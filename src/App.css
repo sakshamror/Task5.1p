@@ -1,0 +1,79 @@
+.First {
+  border: 2px solid black;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(85, 208, 93);
+}
+
+.Main_Heading {
+  font-weight: 900;
+}
+
+.Form {
+  display: flex;
+  align-items: center;
+}
+
+input {
+  margin: 10px;
+}
+
+.Options {
+  font-weight: bolder;
+}
+
+.textbox {
+  font-weight: 800;
+
+}
+
+#area {
+  width: 100%;
+}
+
+.Tags {
+  display: flex;
+  font-weight: bolder;
+}
+
+#text {
+  width: 100%;
+  background-color: rgb(223, 140, 169);
+}
+
+button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.button {
+  margin-left: auto;
+}
+
+.Title {
+  width: 90%;
+  padding: 10px;
+  background-color: rgb(251, 251, 252);
+
+}
+
+.Question {
+  border: 2px solid black;
+  background-color: rgb(165, 144, 128);
+}
+
+.Header{
+  text-align: center;
+
+  font-weight: 700;
+  font-size: 25px;
+
+}
+
+.button {
+  text-align: right;
+}
